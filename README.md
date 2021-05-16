@@ -1,6 +1,9 @@
-# i_am_rich
+## i_am_rich
+
 
 A new Flutter application.
+
+My first practice app i made with flutter while doing the Angela Yu course of Flutter for App Development
 
 ## Getting Started
 
